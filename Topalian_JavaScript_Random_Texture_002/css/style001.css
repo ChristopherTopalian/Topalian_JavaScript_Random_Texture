@@ -1,0 +1,40 @@
+/* Dedicated to God the Father */
+
+/* All Rights Reserved Christopher Topalian Copyright 2000-2023 */
+
+/* https://github.com/ChristopherTopalian */
+
+/* https://github.com/ChristopherAndrewTopalian */
+
+/* style001.css */
+
+body
+{
+    background-color: rgb(100, 100, 100);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.buttonStyle
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4.2px;
+    padding-bottom: 5px;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+.buttonStyle:hover
+{
+    border-color: rgb(0, 255, 255);
+}
+
+.buttonStyle:active
+{
+    color: rgb(0, 255, 255);
+}
